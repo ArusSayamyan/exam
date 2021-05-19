@@ -1,0 +1,26 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArusSayamyan/exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArusSayamyan/exam/issues"
+  },
+  "homepage": "https://github.com/ArusSayamyan/exam#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-flatten": "^0.4.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0"
+  }
+}
