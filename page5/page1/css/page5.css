@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+.page5_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../img/Rectangle\ \(9\).png");
+  color: rgba(0, 0, 0, 0.795);
+  padding: 300px 40px;
+  width: auto;
+  text-align:right;
+  background-size: cover;
+  background-position: center center;
+  height: 80%;
+
+}
+.page5_content h1 {
+  font-size: 57px;
+  margin-bottom: 30px;
+  font-weight:400;
+}
+
+.page5_content p, a{
+  font-size: 16px;
+  margin-bottom: 30px;
+  font-weight:400;
+}
+.readMore {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.63);
+}
+
+
