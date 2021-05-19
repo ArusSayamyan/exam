@@ -17,10 +17,15 @@
   },
   "homepage": "https://github.com/ArusSayamyan/exam#readme",
   "dependencies": {
+    "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
-    "gulp-flatten": "^0.4.0"
+    "gulp-css-minify": "^0.9.2",
+    "gulp-flatten": "^0.4.0",
+    "gulp-htmlmin": "^5.0.1"
   },
   "devDependencies": {
-    "gulp-imagemin": "^7.1.0"
+    "gulp-concat-css": "^3.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-js-minify": "^0.0.3"
   }
 }
