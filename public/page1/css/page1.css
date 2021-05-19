@@ -30,6 +30,10 @@ body {
   margin-bottom: 30px;
   font-weight:400;
 }
+.page1_content p {
+  font-size: 18px;
+  font-weight:400;
+}
 
 .button_container{
   display: flex;
